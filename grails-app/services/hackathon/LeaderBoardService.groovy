@@ -3,12 +3,9 @@ package hackathon
 import grails.transaction.Transactional
 
 @Transactional
-class JenkinsService {
+class LeaderBoardService {
 
     def serviceMethod() {
 
     }
-
-
-
 }
